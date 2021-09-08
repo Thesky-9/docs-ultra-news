@@ -6,7 +6,7 @@
   - [Introduction](README.md)
   - [Requirement](requirement.md)
   - [Install on hosting](install-on-hosting.md)
-  - [Install on vps](install-on-vps.md)
+  - [Install locally or in VPS](install-on-vps.md)
   - [Ssl](ssl.md)
 - User guide
   - [Custom Site Identity](general.md)
