@@ -1,8 +1,25 @@
 # General
 
-> Go to __Admin -> Appearance -> Theme options__ options (tab __General__).
+> Go to __Admin -> Appearance -> Theme options__ (tab __General__).
 
-Edit __Copyright, Designed by, Enable Preloader?, Site description, Address, Phone, Enable Facebook chat?, Facebook page ID, Enable Facebook comment in post detail page?, Site title, Show site name after page title, separate with "-"?, SEO Title, SEO Description,SEO default Open Graph image.__
+In theme option, you can easily edit: 
++ Site title
++ SEO Title
++ SEO Description
++ Site Logo
++ Style: header style, page layout, font size, font family
++ Socials
++ Copyright
++ Designed by
++ Enable Preloader
++ Site description
++ Address
++ Phone
++ Enable Facebook chat
++ Facebook page ID
++ Enable Facebook comments
++ Cookie page
++ ...
 
 ![Font-color](_images/userguide/general.png)
 
