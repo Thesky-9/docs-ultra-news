@@ -25,19 +25,19 @@ In theme option, you can easily edit:
 
 ## Logo & favicon
 
-> It's in __Admin -> Appearance -> Theme__ options (tab __Logo__).
+> __Admin -> Appearance -> Theme options__ (tab __Logo__).
 
 ![Logo](_images/userguide/logo.png)
 
 ## Font & color.
 
-> It's in __Admin -> Appearance -> Theme__ options (tab __Style__).
+> __Admin -> Appearance -> Theme options__ (tab __Style__).
 
 ![Font-color](_images/userguide/font-color.png)
 
 ## Social link.
 
-> It's in __Admin -> Appearance -> Theme__ options (tab __Social__).
+> __Admin -> Appearance -> Theme options__ (tab __Social__).
 
 ![Socials](_images/userguide/social.png) 
 
@@ -53,7 +53,7 @@ We have support for 3 header styles. It's up to you to configure the header acco
 
 
 To change header style, you can access to
->  __Admin -> Appearance -> Theme__ options (tab __Page__).
+>  __Admin -> Appearance -> Theme options__ (tab __Page__).
 
 ![ Header_style_3 Interface](_images/userguide/header-config.png) 
 
@@ -69,7 +69,7 @@ We have support for 3 styles for post detail depending on your website purpose
 
 
 To change post detail style, you can access to
->  __Admin -> Appearance -> Theme__ options (tab __Blog__).
+>  __Admin -> Appearance -> Theme options__ (tab __Blog__).
 
 ![ Header_style_3 Interface](_images/userguide/post-config.png)
 
@@ -77,7 +77,7 @@ You also can change the number of posts per page, category list layout, date for
 
 ## Cookie consent.
 
-> It's in __Admin -> Appearance -> Theme__ options (tab __Cookie Consent__).
+> __Admin -> Appearance -> Theme options__ (tab __Cookie Consent__).
 
 ![Cookie consent](_images/userguide/cookie.png) 
 

@@ -1,1 +1,1 @@
-* [PREVIEW](https://ultra-news.thesky9.com/)
+* [PREVIEW](https://ultranews.thesky9.com/)

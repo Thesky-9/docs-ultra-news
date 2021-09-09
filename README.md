@@ -21,9 +21,9 @@ please feel free to email via my user page contact form [here](https://codecanyo
 <a name="demo"></a>
 ## Demo
 
-Homepage: [https://ultra-news.thesky9.com](https://ultra-news.thesky9.com)
+Homepage: [https://ultranews.thesky9.com](https://ultranews.thesky9.com)
 
-Admin Area: [https://ultra-news.thesky9.com/admin](https://ultra-news.thesky9.com/admin)
+Admin Area: [https://ultranews.thesky9.com/admin](https://ultranews.thesky9.com/admin)
 
 Username: `admin`
 
