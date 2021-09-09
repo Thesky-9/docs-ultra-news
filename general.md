@@ -39,16 +39,41 @@ In theme option, you can easily edit:
 
 > It's in __Admin -> Appearance -> Theme__ options (tab __Social__).
 
-![Cookie consent](_images/userguide/social.png) 
+![Socials](_images/userguide/social.png) 
+
+##  Header style
+
+We have support for 3 header styles. It's up to you to configure the header accordingly
+
+- **Style 1:** ![Header_style_1](_images/userguide/header-style-1.png)
+
+- **Style 2:** ![Header_style_2](_images/userguide/header-style-2.png)
+
+- **Style 3:** ![Header_style_3](_images/userguide/header-style-3.png)
 
 
-##  Contact info boxes.
+To change header style, you can access to
+>  __Admin -> Appearance -> Theme__ options (tab __Page__).
 
-> It's in __Admin -> Appearance -> Theme__ options (tab __ Contact info boxes__).
+![ Header_style_3 Interface](_images/userguide/header-config.png) 
 
-![ Contact info boxes Interface](_images/userguide/contact-info-boxes-1.png) 
+##  Post detail style
 
-![ Contact info boxes Setting](_images/userguide/contact-info-boxes-2.png) 
+We have support for 3 styles for post detail depending on your website purpose
+
+- **Style 1:** ![post_detail_style_1](_images/userguide/post-style-1.png)
+
+- **Style 2:** ![post_detail_style_2](_images/userguide/post-style-2.png)
+
+- **Style 3:** ![post_detail_style_3](_images/userguide/post-style-3.png)
+
+
+To change post detail style, you can access to
+>  __Admin -> Appearance -> Theme__ options (tab __Blog__).
+
+![ Header_style_3 Interface](_images/userguide/post-config.png)
+
+You also can change the number of posts per page, category list layout, date format, show author in each post
 
 ## Cookie consent.
 
