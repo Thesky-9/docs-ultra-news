@@ -2,26 +2,13 @@
 
 ## Overview
 
-> Overview
-
 ![Footer](_images/footer/footer_1.png)
 
-> Detail
-
-![Footer 2](_images/footer/footer_2.png)
-
-## Setting
-
-> Go to __Admin -> Appearance -> Theme Option > Footer__.
-
-- To show footer section 1,2,3,4
-
-![Footer 3](_images/footer/footer_3.png)
-
-
-## Footer sidebar
+To configure footer blocks, you can set them in widgets
 
 > Go to __Admin -> Appearance -> Widgets__.
+
+Feel free to drag the widgets into the "Footer sidebar"
 
 ![Footer 4](_images/footer/footer_4.png)
 

@@ -4,11 +4,15 @@
 
 ![Header main menu](_images/userguide/header-menu-1.png)
 
-> Go to __Admin -> Appearance -> Menus__ and update menu __"Main menu"__
+To config header menu, you can access to
+> __Admin -> Appearance -> Menus__
 
-![Main menu](_images/userguide/header-menu-2.png)
+Select __"Main menu"__
 
-## Footer Menu
+![Main menu_setting](_images/userguide/header-menu-2.png)
+
+## Footer Menu/Custom menu
+Also you can create any menu and use it for footer menu or widget
 
 ![Footer menu](_images/userguide/footer-menu-1.png)
 
