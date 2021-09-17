@@ -1,138 +1,112 @@
 # Short code
 
+We develop and implement shortcodes to allow users to customize their content
+
 ![shortcode](_images/shortcodes/shotcode-overview.png)
 
 ## Youtube Video
 
-> Overview
+You can use the Youtube shortcode to insert videos into your article.
 
-![youtube-video-1](_images/shortcodes/youtube-video-1.png)
+> How to configure?
 
-> Add youtube url: https://www.youtube.com/watch?v=XqZsoesa55w
+1. Select __Youtube__ shortcode from editor
+2. Add youtube url: https://www.youtube.com/watch?v=XqZsoesa55w
 
 ![youtube-video-2](_images/shortcodes/youtube-video-2.png)
 
-## Our Office
+3. The result in detail page
 
-> Overview
+![youtube-video-1](_images/shortcodes/youtube-video-1.png)
 
-![our-office-1](_images/shortcodes/our-office-1.png)
+## Recent posts
 
-> Edit title && sub title
+> How to configure?
 
-![our-office-2](_images/shortcodes/our-office-2.png)
+1. Select __Recent posts__ shortcode
+2. Have a lot of options: Title, subtitle, number of posts, ads
 
-> Edit offices . It's in __Admin -> Appearance -> Theme__ options (tab __ Contact info boxes__).
+![youtube-video-2](_images/shortcodes/recent_posts_config.png)
 
-![ Contact info boxes Interface](_images/userguide/contact-info-boxes-1.png) 
+3. The result in detail page
 
-![ Contact info boxes Setting](_images/userguide/contact-info-boxes-2.png) 
+![youtube-video-1](_images/shortcodes/recent_posts_preview.png)
 
-## Category Grid
+## Gallery images
 
-> Overview
+> How to configure?
 
-![category-grid-1](_images/shortcodes/category-grid-1.png)
+1. Select __Gallery images__ shortcode from editor
+2. Select the number gallery to show
 
-> Setting
+![youtube-video-2](_images/shortcodes/gallery_image_config.png)
 
-![category-grid-2](_images/shortcodes/category-grid-2.png)
+3. The result in detail page
 
+![youtube-video-1](_images/shortcodes/gallery_image_preview.png)
 
-## Category List 1
+## Post grid
 
-> Overview
+> Config
 
-![category-list-1](_images/shortcodes/category-list-1-1.png)
+![popular-categories-1](_images/shortcodes/post_grid_config.png)
 
-> Setting
+> Preview
 
-![category-list-2](_images/shortcodes/category-list-1-2.png)
-
-
-## Category List 2
-
-> Overview
-
-![category-list-1](_images/shortcodes/category-list-2-1.png)
-
-> Setting
-
-![category-list-2](_images/shortcodes/category-list-2-2.png)
-
-## Category Big
-
-> Overview
-
-![category-big-1](_images/shortcodes/category-big-2.png)
-
-> Setting
-
-![category-big-2](_images/shortcodes/category-big-1.png)
-
-
-## Theme Galleries
-
-> Overview
-
-![theme-galleries-1](_images/shortcodes/theme-galleries-1.png)
-
-> Setting
-
-![theme-galleries-2](_images/shortcodes/theme-galleries-2.png)
-
-## Popular Categories
-
-> Overview
-
-![popular-categories-1](_images/shortcodes/popular-categories-1.png)
-
-> Setting
-
-![popular-categories-2](_images/shortcodes/popular-categories-2.png)
+![popular-categories-2](_images/shortcodes/post_grid_preview.png)
 
 ## Post slider
 
-### Style 1
+Post slider with 3 different types to show listing posts.
 
-![post-slider-style-1](_images/shortcodes/post-slider-style-1.png)
+### - Style 1
 
-### Style 2
+![post-slider-style-1](_images/shortcodes/post_slider_1_preview.png)
 
-![post-slider-style-2](_images/shortcodes/post-slider-style-2.png)
+### - Style 2
 
-### Style 3
+![post-slider-style-2](_images/shortcodes/post_slider_2_preview.png)
 
-![post-slider-style-3](_images/shortcodes/post-slider-style-3.png)
+### - Style 3
 
-> Setting
+![post-slider-style-3](_images/shortcodes/post_slider_3_preview.png)
 
-![post-slider](_images/shortcodes/post-slider.png)
+> How to configure?
 
+![post-slider](_images/shortcodes/post_slider_config.png)
 
-## Post and Sidebar
+## Video listing
 
-> Overview
+> How to configure?
 
-![post-sidebar-1](_images/shortcodes/post-sidebar-1.png)
+1. Select __Video posts__ shortcode from editor
+2. Fullfill title and subtitle block
 
-> Setting
+![youtube-video-2](_images/shortcodes/video_post_config.png)
 
-![post-sidebar-2](_images/shortcodes/post-sidebar-2.png)
+3. The result in detail page
 
-## Featured grid
+![youtube-video-1](_images/shortcodes/video_post_preview.png)
 
-> Overview
+## Comment listing
 
-![Featured](_images/shortcodes/post-sidebar-1.png)
+> How to configure?
 
+1. Select __Most comments__ shortcode from editor
+2. Fullfill title and subtitle and number of items
+
+![youtube-video-2](_images/shortcodes/most_comment_config.png)
+
+3. The result in detail page
+
+![youtube-video-1](_images/shortcodes/most_comment_preview.png)
 
 ## Contact form
 
 > Overview
 
-![contact-form-1](_images/shortcodes/contact-form-1.png)
+![contact-form-1](_images/shortcodes/contact-form-preview.png)
 
 > Setting
 
-![contact-form-2](_images/shortcodes/contact-form-2.png)
+![contact-form-2](_images/shortcodes/contact_config.png)
