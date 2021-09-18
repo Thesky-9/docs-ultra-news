@@ -2,7 +2,7 @@
 
 > Go to __Admin -> Appearance -> Theme options__ (tab __General__).
 
-In theme option, you can easily edit: 
+In theme option, you can easily alter the following under:
 + Site title
 + SEO Title
 + SEO Description

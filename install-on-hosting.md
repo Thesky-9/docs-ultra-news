@@ -3,7 +3,8 @@
 1. Upload all files into the root folder of your hosting (normally, it is `public_html`) .
 
 ![Database](_images/installation/hosting_folder.png)
-2. Create a database from database management and import from file database.sql (this file in source code).
+
+2. Create a database from database management, then import the database.sql file (this file in source code)
 
 ![Database](_images/installation/database_folder.png)
 
