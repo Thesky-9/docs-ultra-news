@@ -80,7 +80,7 @@ Post slider with 3 different types to show listing posts.
 > How to configure?
 
 1. Select __Video posts__ shortcode from editor
-2. Fullfill title and subtitle block
+2. Fulfill title and subtitle block
 
 ![youtube-video-2](_images/shortcodes/video_post_config.png)
 
@@ -93,7 +93,7 @@ Post slider with 3 different types to show listing posts.
 > How to configure?
 
 1. Select __Most comments__ shortcode from editor
-2. Fullfill title and subtitle and number of items
+2. Fulfill title, subtitle and number of items
 
 ![youtube-video-2](_images/shortcodes/most_comment_config.png)
 
@@ -110,3 +110,25 @@ Post slider with 3 different types to show listing posts.
 > Setting
 
 ![contact-form-2](_images/shortcodes/contact_config.png)
+
+## Categories tab posts
+
+![youtube-video-1](_images/shortcodes/category_tab_posts_preview.png)
+
+> How to configure?
+
+1. Select __Categories tab posts__ shortcode from editor
+2. Fulfill title, subtitle, number of items, categories
+
+![youtube-video-2](_images/shortcodes/category_tab_posts_config.png)
+
+## Collection posts
+
+![youtube-video-1](_images/shortcodes/collection_posts_preview.png)
+
+> How to configure?
+
+1. Select __Posts Collection__ shortcode from editor
+2. Fulfill title, subtitle, number of items, collection to get posts
+
+![youtube-video-2](_images/shortcodes/collection_posts_config.png)
