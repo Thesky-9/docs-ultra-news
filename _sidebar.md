@@ -16,5 +16,7 @@
   - [Translate](translate.md)
   - [Short code](shortcode.md)
   - [Config](config.md)
+  - [Ads](adv.md)
+  - [Analytics](analytics.md)
 - Theme development
   - [Guide](theme-development.md)
