@@ -2,7 +2,7 @@
 
 ## Upgrade to 1.0.1
 
-Have 2 way to update to the new version
+There are 2 ways to update to the new version
 
 ### 1. Manually
 
