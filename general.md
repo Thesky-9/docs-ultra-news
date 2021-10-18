@@ -29,33 +29,17 @@ In theme option, you can easily alter the following under:
 
 ![Logo](_images/userguide/logo.png)
 
-## Font & color.
+## Font & color
 
 > __Admin -> Appearance -> Theme options__ (tab __Style__).
 
 ![Font-color](_images/userguide/font-color.png)
 
-## Social link.
+## Social link
 
 > __Admin -> Appearance -> Theme options__ (tab __Social__).
 
 ![Socials](_images/userguide/social.png) 
-
-##  Header style
-
-We have support for 3 header styles. It's up to you to configure the header accordingly
-
-- **Style 1:** ![Header_style_1](_images/userguide/header-style-1.png)
-
-- **Style 2:** ![Header_style_2](_images/userguide/header-style-2.png)
-
-- **Style 3:** ![Header_style_3](_images/userguide/header-style-3.png)
-
-
-To change header style, you can access to
->  __Admin -> Appearance -> Theme options__ (tab __Page__).
-
-![ Header_style_3 Interface](_images/userguide/header-config.png) 
 
 ##  Post detail style
 
@@ -75,7 +59,7 @@ To change post detail style, you can access to
 
 You also can change the number of posts per page, category list layout, date format, show author in each post
 
-## Cookie consent.
+## Cookie consent
 
 > __Admin -> Appearance -> Theme options__ (tab __Cookie Consent__).
 

@@ -10,8 +10,11 @@
   - [Ssl](ssl.md)
 - User guide
   - [Custom Site Identity](general.md)
+  - [Header](header.md)
   - [Menu](menu.md)
   - [Footer](footer.md)
+  - [Media](media.md)
+  - [Favorite/Bookmark Post](bookmark-post.md)
   - [Custom CSS & JS](cssjs.md)
   - [Translate](translate.md)
   - [Short code](shortcode.md)
