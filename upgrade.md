@@ -1,6 +1,6 @@
 # Upgrade Guide
 
-## Upgrade to 1.0.1
+## Upgrade to 1.0.1/1.0.2
 
 There are 2 ways to update to the new version
 
