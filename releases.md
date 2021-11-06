@@ -1,4 +1,4 @@
-## 1.0.2 ( Nov 6, 2021, 2021 )
+## 1.0.3 ( Nov 6, 2021 )
 - Optimize code and fix UI
 
 ## 1.0.2 ( Dec 25, 2021 )
