@@ -14,6 +14,7 @@
   - [Menu](menu.md)
   - [Footer](footer.md)
   - [Media](media.md)
+  - [Insert YouTube,Vimeo video into post](insert_video.md)
   - [Favorite/Bookmark Post](bookmark-post.md)
   - [Custom CSS & JS](cssjs.md)
   - [Translate](translate.md)
