@@ -1,3 +1,11 @@
+## 1.2.0 ( Mar 02, 2021 )
+
+- Fix S3 config
+- Fix some small issues when upgrading to Bootstrap 5.
+- Improve core & UI.
+- Improve RTL mode.
+- Improve shortcode.
+
 ## 1.1.0 ( Nov 22, 2021 )
 
 - Fix Admin Bar settings.
