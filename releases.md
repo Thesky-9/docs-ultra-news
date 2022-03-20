@@ -1,3 +1,11 @@
+## 2.0.0 ( Mar 20, 2021 )
+
+- Update language v2
+- Fixed Editor.
+- Fixes css Rtl
+- Improve core & UI.
+- Refactor code.
+
 ## 1.2.0 ( Mar 02, 2021 )
 
 - Fix S3 config
