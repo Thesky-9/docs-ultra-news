@@ -1,3 +1,14 @@
+## 2.1.0 ( Aug 04, 2021 )
+
+- Update latest code
+- Update translation plugin
+- Improve email template settings
+- Add preview for document type in Media
+- Improve core & UI.
+- Refactor code.
+- Improve backup feature
+- Fix cache issue
+
 ## 2.0.0 ( Mar 20, 2021 )
 
 - Update language v2
