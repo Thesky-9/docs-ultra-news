@@ -1,4 +1,13 @@
-## 2.1.0 ( Aug 04, 2021 )
+## 2.2.0 ( Aug 20, 2022 )
+
+- Fix toggle tab
+- Fix  plugin Member
+- Fix plugin comment
+- Fix dompdf public path & add Catalonia flag
+- Improve core & UI.
+- Refactor code.
+
+## 2.1.0 ( Aug 04, 2022 )
 
 - Update latest code
 - Update translation plugin
@@ -9,7 +18,7 @@
 - Improve backup feature
 - Fix cache issue
 
-## 2.0.0 ( Mar 20, 2021 )
+## 2.0.0 ( Mar 20, 2022 )
 
 - Update language v2
 - Fixed Editor.
