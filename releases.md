@@ -1,3 +1,15 @@
+## 2.3.0 ( Oct 20, 2022 )
+
+- Fix show comments section in recent post plugin
+- Fix reset email template
+- Fix bugs on PHP 8
+- Fix file upload visibility
+- Fix pagespeed optimization and language route prefix
+- Fix remove redundant shortcode
+- Improve core & UI.
+- Improve language & settings
+- Refactor code.
+
 ## 2.2.0 ( Aug 20, 2022 )
 
 - Fix toggle tab
