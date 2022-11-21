@@ -14,7 +14,9 @@
 
     - Run `php artisan cms:user:create` to create admin user.
     
-    - Run `php artisan cms:theme:activate news`
+    - Activate all plugins `php artisan cms:plugin:activate:all`
+  
+    - Activate theme `php artisan cms:theme:activate ultra`
 
 - If you're pulled source code from GIT server:
     - Run `php artisan vendor:publish --tag=cms-public --force`
