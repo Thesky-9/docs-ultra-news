@@ -1,3 +1,14 @@
+## 2.5 ( Jan 10, 2023 )
+
+- Fix create a new post
+- Fix Analytics
+- Fix recaptcha
+- Update media, SEO title
+- Update media crop image
+- Improve helpers
+- Improve performance
+- Refactor code
+
 ## 2.4 ( Dec 27, 2022 )
 - Upgrade to Laravel framework 9.x
 - Drop PHP 7.x support.
