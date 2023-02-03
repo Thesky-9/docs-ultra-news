@@ -16,6 +16,11 @@ Only available to users who purchase the AI-Writer plugin separately.
 
 ![setting-api-key](_images/ai-writer/setting-api-key.png)
 
+> How can  get OpenAI API key ?
+
+1. You need have an OpenAI account.
+2. Access to OpenAI account dashboard to generate API key. https://platform.openai.com/account/api-keys
+![get-openai-api-key](_images/ai-writer/how-to-get-openai-key.png)
 
 ## Use
 
