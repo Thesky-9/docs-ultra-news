@@ -20,6 +20,7 @@
   - [Translate](translate.md)
   - [Short code](shortcode.md)
   - [Config](config.md)
+  - [AI Writer](ai-writer.md)
   - [Ads](adv.md)
   - [Analytics](analytics.md)
 - Theme development
