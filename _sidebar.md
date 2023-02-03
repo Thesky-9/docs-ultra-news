@@ -3,7 +3,7 @@
   - [Upgrade](upgrade.md)
   - [License](license.md)
 - Getting started
-  - [Introduction](README.md)
+  - [Introduction](readme.md)
   - [Requirement](requirement.md)
   - [Install on hosting](install-on-hosting.md)
   - [Install locally or in VPS](install-on-vps.md)
