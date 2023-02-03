@@ -14,8 +14,6 @@ Only available to users who purchase the AI-Writer plugin separately.
 ## Setting OpenAI API key
 > Go to __Admin -> Setting -> General__.
 
-Setting Language & Front site language direction
-
 ![setting-api-key](_images/ai-writer/setting-api-key.png)
 
 
