@@ -1,3 +1,13 @@
+## 2.6 ( Feb 16, 2023 )
+
+- Fix small bug
+- Fix download translation locale
+- Purifier allows the audio tag
+- Improve analytics, fix installer
+- Fix plugin Language
+- Update maintenance mode view & Add alt for the image in Media
+- Add an option to disable the installer
+
 ## 2.5 ( Jan 10, 2023 )
 
 - Fix create a new post
