@@ -1,3 +1,37 @@
+## 2.7.0 ( May 07, 2023 )
+
+- Fix plugin Member
+- Fix issue when switching default language
+- Improve admin notification: only keep notifications in 30 days
+- Improve setting pages
+- Improve captcha plugin, fix issue when using multiple captcha
+- Improve admin bar
+- Improve system updater & performance
+- Improve UI for installer
+- Improve core source code & performance
+- Add multi-language for email templates
+- Improve performance
+- Improve UI for installer
+- Fix issue when switching default language
+- Fix watermark issues: missing watermark for images in sub-folder
+- Improve sitemap (add sitemap indexes)
+- Fallback option for Google Fonts cache
+- Disable scroll effect in the admin panel
+- Fix og:site_name
+- Fix bug download images in Admin -> Media
+- Fix preview PDF file & bulk changes in table
+- Fix sitemap issue when enable pagespeed optimizer
+- Improve Google Analytics settings
+- Improve admin notifications, hide notification if current logged user don't have permission to see it
+- Publish translation files when activate plugin / upgrade to the new version
+- Add language switcher on mobile screen
+- Update breadcrumb schema
+- Make editor translatable, display based on admin language
+- Improve loading performance
+
+## 2.6.1 ( Feb 19, 2023 )
+- Fix bug comment
+
 ## 2.6 ( Feb 16, 2023 )
 
 - Fix small bug
