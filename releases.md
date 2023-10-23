@@ -1,3 +1,37 @@
+## 2.8.0 (Oct 24, 2023)
+- Improve performance & theme UI
+- Add slugs translation
+- Improve multi-language
+- Add option to disable agent info in the property detail page
+- Fix text direction button in CKEditor
+- Fix issues when using PostgreSQL
+- Improve System updater
+- Improve core & performance
+- Improve locale/translation download
+- Improve Analytics widgets
+
+## 2.8.0 ( Sep 16, 2023)
+
+- Add multi-language for email templates
+- Fix issue when switching default language
+- Fix watermark issues: missing watermark for images in sub-folder
+- Add properties/projects import & export to CSV
+- Fallback option for Google Fonts cache
+- Disable scroll effect in the admin panel
+- Fix og:site_name
+- Fix search properties/projects
+- Fix bug download images in Admin -> Media
+- Fix preview PDF file & bulk changes in table
+- Fix sitemap issue when enable pagespeed optimizer
+- Publish translation files when activate plugin / upgrade to the new version
+- Make editor translatable, display based on admin language
+- Improve loading performance
+- Improve system updater & performance
+- Improve UI for installer
+- Improve sitemap (add sitemap indexes)
+- Improve Google Analytics settings
+- Improve admin notifications, hide notification if current logged user don't have permission to see it
+
 ## 2.7.0 ( May 07, 2023 )
 
 - Fix plugin Member
