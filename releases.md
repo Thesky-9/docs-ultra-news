@@ -1,3 +1,10 @@
+## 3.0.0 (Dec 25, 2023)
+
+- Revamp admin theme, make it super beautiful.
+- Upgrade to Laravel 10.
+- Improve core code and performance.
+- Make it easier to customize
+
 ## 2.8.0 (Oct 24, 2023)
 - Improve performance & theme UI
 - Add slugs translation
