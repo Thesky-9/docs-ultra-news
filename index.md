@@ -17,7 +17,7 @@ By: [TheSky9 Technologies](https://thesky9.com) Email: [thesky9.com@gmail.com](m
 Thank you for purchasing this product. If you have any questions that are beyond the scope of this help file, 
 please feel free to email via my user page contact form [here](https://codecanyon.net.net/user/thesky9) for quickly support. Thank you so much!
 
-![intro](/_images/intro.png)		
+![intro](_images/intro.png)		
 <a name="demo"></a>
 ## Demo
 
