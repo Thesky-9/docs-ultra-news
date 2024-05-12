@@ -1,3 +1,24 @@
+## 3.4.0 (May 12, 2024)
+
+- Fix post collection
+- Fix ai writer
+- Improve core
+
+## 3.3.0 (May 03, 2024)
+
+- Improve performance & front theme UI
+- Fix memory limit warning
+- Fix duplicate language when installing using UI
+- Fix duplicate editor field when using show/hide editor button
+- Add search box for UI blocks
+- Add Open Graph Image into SEO box
+- Add option to upload/modify robots.txt file
+- Add some new Google fonts to the list of fonts for theme
+- Improve captcha: add option to enable captcha for admin login page
+- Improve table: fix responsive table buttons
+- Improve theme translations: add button to import missing theme translation texts
+- Improve social login: add Facebook Data deletion request callback & improve default style
+
 ## 3.2.0 (Feb 24, 2024)
 
 - Fix create menu
