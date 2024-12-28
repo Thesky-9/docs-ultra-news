@@ -1,3 +1,15 @@
+# Release Notes
+
+## 4.0.0 (Dec 28, 2024)
+
+- Change minimum PHP version: Require PHP 8.2.0 or higher.
+- Optimize source code: Improve performance and maintainability.
+- Improve TinyMCE editor: add RTL mode
+- Improve front theme UI
+- Improve cache for better performance
+- Optimize source code
+- Update third-party libraries to the latest version
+  
 ## 3.6.0 (Oct 17, 2024)
 
 - Add Backblaze cloud storage support
